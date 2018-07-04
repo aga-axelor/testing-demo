@@ -1,0 +1,4 @@
+<domain>
+  <string name="firstName" title="First name"/>
+  <string name="lastName" title="Last name"/>
+</domain>
