@@ -1,4 +1,6 @@
 <domain>
+  <many-to-one name="title" ref="Title" title="Title"/>
   <string name="firstName" title="First name"/>
   <string name="lastName" title="Last name"/>
+  <integer name="age" title="Age"/>
 </domain>
